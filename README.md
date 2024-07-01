@@ -7,6 +7,10 @@ How To Install App
 - change url link in ./lib/constant.dart by host local
 - flutter run
 
+Authentication
+username : admin
+pass : admin123
+
 Requirements 
 - PHP 8.0.9
 - Flutter 3.22.2
