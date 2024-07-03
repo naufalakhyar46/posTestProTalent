@@ -15,7 +15,7 @@ How To Install App
 - run app with your emulator
 - the app is ready to run with emulator or others
 
-Authentication
+Authentication <br>
 username : admin <br>
 pass : admin123
 
