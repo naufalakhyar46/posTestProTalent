@@ -16,12 +16,12 @@ How To Install App
 - the app is ready to run with emulator or others
 
 Authentication
-username : admin
+username : admin <br>
 pass : admin123
 
 Requirements 
 - PHP 8.0.9
 - Flutter 3.22.2
 
-Best Regard,
+Best Regard,<br>
 Thanks for all
